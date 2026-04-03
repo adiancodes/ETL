@@ -113,24 +113,6 @@ customer_details.csv  ──┐
 basket_details.csv ────┘                                                                                          Database
 ```
 
-## Power BI Integration
-
-Screenshots and visualizations of Power BI dashboards connected to this data are stored in:
-
-```
-docs/screenshots/powerbi/
-```
-
-To add your Power BI dashboard screenshots:
-1. Export your visualization from Power BI
-2. Save the image file to `docs/screenshots/powerbi/`
-3. You can reference them in your documentation or presentations
-
-Example naming convention:
-- `sales_overview_dashboard.png`
-- `customer_analytics.png`
-- `transaction_summary.png`
-
 ## Troubleshooting
 
 **Issue:** `ModuleNotFoundError: No module named 'pandas'`
